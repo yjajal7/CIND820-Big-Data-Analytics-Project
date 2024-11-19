@@ -21,6 +21,7 @@ Predictive Modeling of Consumer Transaction Data
 5.	Conclusion and Future Directions
 -	Concluding observations and practical suggestions
 
+
 •	Future Scope
 Time-Series Analysis:
 The temporal patterns in transaction volumes observed in this analysis may merit further exploration with advanced time-series modeling techniques.
